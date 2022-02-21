@@ -10,5 +10,4 @@ Summer Intern project
 9.objectives
 10.Methodology
 11.Project Diagrams
-12.Testing
-13.Results and Coclusion
+
